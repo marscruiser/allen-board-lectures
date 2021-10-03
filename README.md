@@ -116,6 +116,20 @@ List of board lectures provided by ALLEN collected by me
 
 ####  6. [Half Deflection Method - Final-Practical | Lecture Final-(CBSE)](https://player.vimeo.com/video/599393937?h=249707057e)
 
+## Chemistry
+
+### Inorganic Chemistry
+
+####  1 [TITRATION -Practical | Lecture 01-(CBSE)Inorganic Chemistry](https://player.vimeo.com/video/599412565?h=99704118b8)
+
+####  2 [ACIDRADICAL -Practical | Lecture 01-(CBSE)Inorganic Chemistry](https://player.vimeo.com/video/599411056?h=5de88f0abc)
+
+####  3 [Acidradical Strong -Practical | Lecture 01-(CBSE)Inorganic Chemistry](https://player.vimeo.com/video/599413012?h=0816b0beef)
+
+####  4 [Basicradical -Practical | Lecture 01-(CBSE)Inorganic Chemistry](https://player.vimeo.com/video/599411468?h=9cd65156d7)
+
+####  5 [Basicradical -Practical | Lecture 02-(CBSE)Inorganic Chemistry](https://player.vimeo.com/video/599411468?h=9cd65156d7)
+
 # Synchronization
 
 Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
@@ -228,3 +242,4 @@ A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
+```
