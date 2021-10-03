@@ -5,30 +5,57 @@ List of board lectures provided by ALLEN collected by me
 
 # Physics
 
-1. Electric Charge & Fields-Boards | Lecture 01
+### 1. Electric Charge & Fields-Boards | Lecture 01
 
-    [Part_1]( https://player.vimeo.com/video/584798596?h=39c89b5bab)
+   ####  [Part 1]( https://player.vimeo.com/video/584798596?h=39c89b5bab)
 
-   [Part_2](https://player.vimeo.com/video/584800762?h=0a5ffcbc9a)
+   ####   [Part 2](https://player.vimeo.com/video/584800762?h=0a5ffcbc9a)
 
-    [Part_3](https://player.vimeo.com/video/584787640?h=baf2060c82)
+   ####    [Part 3](https://player.vimeo.com/video/584787640?h=baf2060c82)
 
-    [Part_4](https://player.vimeo.com/video/584794191?h=7c20c278b0)
-## Create files and folders
+   ####    [Part 4](https://player.vimeo.com/video/584794191?h=7c20c278b0)
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+   ####   [Part 5](https://player.vimeo.com/video/584796293?h=a40c61c1af )
 
-## Switch to another file
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+# Maths
 
-## Rename a file
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+### Continuity & differentiability-Boards | Lecture 01
 
-## Delete a file
+####  [Part 1](https://player.vimeo.com/video/584777632?h=6d40ca36de)
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+####  [Part 2](https://player.vimeo.com/video/584777632?h=6d40ca36de)
+
+####  [Part 3](https://player.vimeo.com/video/584769986?h=236dd0f61b)
+
+####  [Part 4](https://player.vimeo.com/video/584772431?h=b70cae83a9)
+
+####  [Part 5](https://player.vimeo.com/video/584774426?h=02add0a965)
+
+####  [Part 6](https://player.vimeo.com/video/584776038?h=68d255bd3f)
+
+### Inverse Trigonometric Function Function Boards | Lecture 01
+
+####  [Part 1](https://player.vimeo.com/video/584175598?h=3c40d6daa4)
+
+
+# Chemistry
+## Physical Chemistry -
+### Solution-Boards | Lecture 01
+
+####  [Part 1](https://player.vimeo.com/video/584783658?h=02bf6048d1)
+
+####  [Part 2](https://player.vimeo.com/video/584785767?h=1e56de8433)
+
+### Solid State-Boards | Lecture 01
+####  [Part 1](https://player.vimeo.com/video/584780731?h=5185cbd2a5)
+
+####  [Part 2](https://player.vimeo.com/video/584781196?h=edaa7895aa)
+
+####  [Part 3](https://player.vimeo.com/video/584782587?h=fc53f688ae)
+
+
 
 ## Export a file
 
