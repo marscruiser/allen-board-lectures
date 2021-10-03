@@ -2,6 +2,8 @@
 
 List of board lectures provided by ALLEN collected by me 
 
+note - if a topic/chapter ends with part_xyz means its the last lecture
+
 # English
 
 ## Introduction To Boards -
