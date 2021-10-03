@@ -97,7 +97,7 @@ List of board lectures provided by ALLEN collected by me
 
 ###  3. Application of Derivatives-Boards | Lectures
 
-####  [Part 1](https://player.vimeo.com/video/589224593?h=7addr1vyh3ysu2rl4q2llq80sptvk3hftr8xen8dc73kdc3ezlqngpqtaye
+####  [Part 1](https://player.vimeo.com/video/589224593?h=7addr1vyh3ysu2rl4q2llq80sptvk3hftr8xen8dc73kdc3ezlqngpqtaye)
 
 ####  [Part 2](https://player.vimeo.com/video/589205550?h=2b6b7a5333)
 
