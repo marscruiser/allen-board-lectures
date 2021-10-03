@@ -18,10 +18,22 @@ List of board lectures provided by ALLEN collected by me
    ####   [Part 5](https://player.vimeo.com/video/584796293?h=a40c61c1af )
 
 
+### 2. Electric Potential & Capacitance-Boards | Lecture 01
+
+####  [Part 1](https://player.vimeo.com/video/589235320?h=8a24ea1684)
+
+####  [Part 2](https://player.vimeo.com/video/589237281?h=c95974aa10)
+
+####  [Part 3](https://player.vimeo.com/video/589228672?h=f7cba56af9)
+
+####  [Part 4](https://player.vimeo.com/video/589230630?h=2b6c45c018)
+
+####  [Part 5](https://player.vimeo.com/video/589232568?h=3fc2f3fd9f)
+
 # Maths
 
 
-### Continuity & differentiability-Boards | Lecture 01
+### 1. Continuity & differentiability-Boards | Lecture 01
 
 ####  [Part 1](https://player.vimeo.com/video/584777632?h=6d40ca36de)
 
@@ -35,13 +47,21 @@ List of board lectures provided by ALLEN collected by me
 
 ####  [Part 6](https://player.vimeo.com/video/584776038?h=68d255bd3f)
 
-### Inverse Trigonometric Function Function Boards | Lecture 01
+###  2.Inverse Trigonometric Function Function Boards | Lecture 01
 
 ####  [Part 1](https://player.vimeo.com/video/584175598?h=3c40d6daa4)
 
+###  3.Application of Derivatives-Boards | Lecture 01
+
+####  [Part 1](https://player.vimeo.com/video/589224593?h=7addr1vyh3ysu2rl4q2llq80sptvk3hftr8xen8dc73kdc3ezlqngpqtaye
+
+####  [Part 2](https://player.vimeo.com/video/589205550?h=2b6b7a5333)
+
 
 # Chemistry
+
 ## Physical Chemistry -
+
 ### Solution-Boards | Lecture 01
 
 ####  [Part 1](https://player.vimeo.com/video/584783658?h=02bf6048d1)
@@ -49,18 +69,52 @@ List of board lectures provided by ALLEN collected by me
 ####  [Part 2](https://player.vimeo.com/video/584785767?h=1e56de8433)
 
 ### Solid State-Boards | Lecture 01
+
 ####  [Part 1](https://player.vimeo.com/video/584780731?h=5185cbd2a5)
 
 ####  [Part 2](https://player.vimeo.com/video/584781196?h=edaa7895aa)
 
 ####  [Part 3](https://player.vimeo.com/video/584782587?h=fc53f688ae)
 
+## Inorganic Chemistry -
+
+### P-Block Elements-Boards | Lecture 01
+
+####  [Part 1](https://player.vimeo.com/video/589226531?h=49539bc649)
+
+####  [Part 2](https://player.vimeo.com/video/589227588?h=501316b887)
+
+####  [Part 3](https://player.vimeo.com/video/589209950?h=bbdd72f2b8)
+
+####  [Part 4](https://player.vimeo.com/video/589211286?h=0c36925108)
+
+####  [Part 5](https://player.vimeo.com/video/589212608?h=8f54aec39f)
 
 
-## Export a file
+# Practicals Videos
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+## Maths
+####  1. [Introduction Activity- Practical 1,2,3 & 16 | Lecture 01-(CBSE)](https://player.vimeo.com/video/599407053?h=1f47aac8c1)
 
+####  2. [ Practical 4,6,7 & 8 | Lecture 02-(CBSE)](https://player.vimeo.com/video/599395033?h=e2190e686b)
+
+####  3. [ Practical 10,11,12 & 13 | Lecture 03-(CBSE)](https://player.vimeo.com/video/599398611?h=f11deacc0d)
+  
+####  4. [ Practical 14,15,17 & 20 | Lecture 04-(CBSE)](https://player.vimeo.com/video/599402731?h=548c9a8188)
+
+## Physics
+
+####  1. [ Ohm Law Practical](https://player.vimeo.com/video/599394303?h=eb90ebf3708)
+
+####  2. [ Meter Bridge Experiment 01-Practical | Lecture 01-(CBSE)](https://player.vimeo.com/video/599394907?h=e0ce57e803)
+
+####  3. [ Meter Bridge Experiment 02-Practical | Lecture 02-(CBSE)](https://player.vimeo.com/video/599393172?h=308afca2c3)
+
+####  4. [Potentiometer Experiment 01-Practical | Lecture 01-(CBSE)](https://player.vimeo.com/video/599393479?h=1915a514c5)
+
+####  5. [Potentiometer Experiment 02-Practical | Lecture 02-(CBSE)](https://player.vimeo.com/video/599393798?h=a45cf534f9)
+
+####  6. [Half Deflection Method - Final-Practical | Lecture Final-(CBSE)](https://player.vimeo.com/video/599393937?h=249707057e)
 
 # Synchronization
 
@@ -174,4 +228,3 @@ A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
-```
