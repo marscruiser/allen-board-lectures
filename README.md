@@ -1,8 +1,19 @@
+
+## Updated on (20/10/21) Includes few more topics 
+##  now also includes Vistas Lectures Vistas lectures  
+### -Lpp lectures  
+### -Biomolecules lectures  
+### -Ac  
+### -Emi  
+### -Magnetism matter  
+### -Writing section  
+### -Physical education  
+### -Computer science
+
+
 # Introduction
 
 List of board lectures provided by ALLEN collected by me 
-
-note - if a topic/chapter ends with part_xyz means its the last lecture
 
 # English
 
@@ -22,6 +33,19 @@ note - if a topic/chapter ends with part_xyz means its the last lecture
  ####  [Chapter 05 - An Elementary School Classroom in a Slum](https://player.vimeo.com/video/589826675?h=f198854d49)
 
  ####  [Chapter 06 - Keeping Quiet](https://player.vimeo.com/video/589815927?h=283961c7eb)
+
+## Vistas
+
+ ####  [ Chapter 01 - The Third Level](https://player.vimeo.com/video/589822549?h=51ec0d6d19)
+
+ ####  [Chapter 02 - The Enemy Part-1](https://player.vimeo.com/video/589817212?h=782f145180)
+
+ ####  [Chapter 02 - The Enemy Part-2](https://player.vimeo.com/video/589817668?h=22714df3e0)
+
+## Writing Section
+
+ ####  [Writing Section Full Part](https://player.vimeo.com/video/589824405?h=ba065e7a5c)
+
 
 
 # Physics
@@ -63,7 +87,7 @@ note - if a topic/chapter ends with part_xyz means its the last lecture
 
 ####  [Part 5](https://player.vimeo.com/video/589777863?h=46ee155ea5)
 
-### 4. Moving Charge And Magnetism  | Lectures
+### 4. Moving Charge And Magnetism-Boards  | Lectures
 
 ####  [Part 1](https://player.vimeo.com/video/589784713?h=84c6c51df4)
 
@@ -74,6 +98,34 @@ note - if a topic/chapter ends with part_xyz means its the last lecture
 ####  [Part 4](https://player.vimeo.com/video/589783020?h=ccd4a2b070)
 
 ####  [Part 5](https://player.vimeo.com/video/589783862?h=a3a94cd948)
+
+### 5. Alternating Current-Boards | Lectures
+####  [Part 1](https://player.vimeo.com/video/589800792?h=a6f859d400)
+
+####  [Part 2](https://player.vimeo.com/video/589793863?h=ce44f07323)
+
+####  [Part 3](https://player.vimeo.com/video/589794822?h=48bcb4d80a)
+
+####  [Part 4](https://player.vimeo.com/video/589797357?h=35dd12cedc)
+
+####  [Part 5](https://player.vimeo.com/video/589798244?h=00c5fb6f72)
+
+###  6. Electromagnetic Induction-Boards | Lectures
+####  [Part 1](https://player.vimeo.com/video/589792983?h=9942b9a275)
+
+####  [Part 2](https://player.vimeo.com/video/589790014?h=bfcd62b12f)
+
+####  [Part 3](https://player.vimeo.com/video/589790850?h=cfa6e7d7b1)
+
+####  [Part 4](https://player.vimeo.com/video/589791646?h=9b30acf9cc)
+
+### 7. Magnetism & Matter-Boards | Lectures
+####  [Part 1](https://player.vimeo.com/video/589789084?h=af073c450a)
+
+####  [Part 2](https://player.vimeo.com/video/589786740?h=1b7ef03bf1)
+
+####  [Part 3](https://player.vimeo.com/video/589787799?h=a8082754df)
+
 
 
 
@@ -122,18 +174,21 @@ note - if a topic/chapter ends with part_xyz means its the last lecture
 ####  [Part 3](https://player.vimeo.com/video/589809157?h=c66620e4b9)
 
 ####  [Part 4](https://player.vimeo.com/video/589809510?h=adee1053d8)
+### 6. LPP-Boards | Lectures
+
+####  [Part 1](https://player.vimeo.com/video/589810517?h=a3937b5e2f)
 
 # Chemistry
 
 ## Physical Chemistry -
 
-### Solution-Boards | Lectures
+### 1. Solution-Boards | Lectures
 
 ####  [Part 1](https://player.vimeo.com/video/584783658?h=02bf6048d1)
 
 ####  [Part 2](https://player.vimeo.com/video/584785767?h=1e56de8433)
 
-### Solid State-Boards | Lectures
+### 2. Solid State-Boards | Lectures
 
 ####  [Part 1](https://player.vimeo.com/video/584780731?h=5185cbd2a5)
 
@@ -143,27 +198,27 @@ note - if a topic/chapter ends with part_xyz means its the last lecture
 
 ## Inorganic Chemistry -
 
-### P-Block Elements-Boards | Lectures
+### 1. P-Block Elements-Boards | Lectures
 
 ####  [Part 1](https://player.vimeo.com/video/589226531?h=49539bc649)
 
 ####  [Part 2](https://player.vimeo.com/video/589227588?h=501316b887)
 
-####  [Part 3](https://player.vimeo.com/video/589209950?h=bbdd72f2b8)
 
-####  [Part 4](https://player.vimeo.com/video/589211286?h=0c36925108)
-
-####  [Part 5](https://player.vimeo.com/video/589212608?h=8f54aec39f)
-
-### Haloalkanes and Haloarenes-Boards | Lectures
+### 2. Haloalkanes and Haloarenes-Boards | Lectures
 
 ####  [Part 1](https://player.vimeo.com/video/589801789?h=329e9f5324)
 
 ## Organic Chemistry
 
-### Alcohols, Phenols and Ethers-Boards | Lectures
+### 1. Alcohols, Phenols and Ethers-Boards | Lectures
 
 ####  [Part 1](https://player.vimeo.com/video/589803549?h=713f30839b)
+
+### 2. Biomolecules-Boards | Lectures
+
+####  [Part 1](https://player.vimeo.com/video/589804980?h=671cd31ead)
+
 
 
 # Practicals Videos
@@ -204,3 +259,45 @@ note - if a topic/chapter ends with part_xyz means its the last lecture
 ####  4 [Basicradical -Practical | Lecture 01-(CBSE)Inorganic Chemistry](https://player.vimeo.com/video/599411468?h=9cd65156d7)
 
 ####  5 [Basicradical -Practical | Lecture 02-(CBSE)Inorganic Chemistry](https://player.vimeo.com/video/599411468?h=9cd65156d7)
+
+# Physical Education
+
+### Planning in Sports | Lectures
+
+##### [Part 1](https://player.vimeo.com/video/589812349?h=d9b8e4262f)
+
+##### [Part 2](https://player.vimeo.com/video/589813134?h=fc2460913a)
+
+#### [Planning in Sports Part 3 + Sports And Nutrition](https://player.vimeo.com/video/589811155?h=0939caeba1)
+
+### Children & Women in Sports | Lectures
+
+##### [Part 1](https://player.vimeo.com/video/589811583?h=cb96b761f6)
+
+### Test & Measurement in Sports | Lectures
+
+##### [Part 1](https://player.vimeo.com/video/589811841?h=c5d419c956)
+
+### Biomechanics & Sports Practical | Lectures
+
+##### [Part 1](https://player.vimeo.com/video/589812082?h=7222dba28b)
+
+# Computer Science
+
+### Revision of basics of python-Boards | Lectures
+
+##### [Part 1](https://player.vimeo.com/video/589814948?h=143020f42f)
+
+##### [Part 2](https://player.vimeo.com/video/589815405?h=4d35a7af0f)
+
+### Function-Boards | Lectures
+
+##### [Part 1](https://player.vimeo.com/video/589813577?h=d531040ab1)
+
+##### [Part 2](https://player.vimeo.com/video/589813852?h=fa35e213d0)
+
+### File Handling | Lectures
+
+##### [Part 1](https://player.vimeo.com/video/589814145?h=483d435508)
+
+##### [Part 2](https://player.vimeo.com/video/589814440?h=a1f856e334)
