@@ -1,6 +1,6 @@
 
 ## Updated on (20/10/21) Includes few more topics 
-##  now also includes Vistas Lectures Vistas lectures  
+##  now also includes
 ### -Lpp lectures  
 ### -Biomolecules lectures  
 ### -Ac  
