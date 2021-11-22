@@ -205,10 +205,6 @@ List of board lectures provided by ALLEN collected by me
 ####  [Part 2](https://player.vimeo.com/video/589227588?h=501316b887)
 
 
-### 2. Haloalkanes and Haloarenes-Boards | Lectures
-
-####  [Part 1](https://player.vimeo.com/video/589801789?h=329e9f5324)
-
 ## Organic Chemistry
 
 ### 1. Alcohols, Phenols and Ethers-Boards | Lectures
@@ -219,7 +215,9 @@ List of board lectures provided by ALLEN collected by me
 
 ####  [Part 1](https://player.vimeo.com/video/589804980?h=671cd31ead)
 
+### 3. Haloalkanes and Haloarenes-Boards | Lectures
 
+####  [Part 1](https://player.vimeo.com/video/589801789?h=329e9f5324)
 
 # Practicals Videos
 
