@@ -1,303 +1,190 @@
-## Includes every topic,no updates needed.
-
-
-## Updated on (20/10/21) Includes few more topics 
-##  now also includes
-### -Lpp lectures  
-### -Biomolecules lectures  
-### -Ac  
-### -Emi  
-### -Magnetism matter  
-### -Writing section  
-### -Physical education  
-### -Computer science
-
-
 # Introduction
 
 List of board lectures provided by ALLEN collected by me 
 
+# CBSE-Term2-Exam-Strategy 
+### [Physics](https://player.vimeo.com/video/668589579?h=7914e5d4b8)
+### [Chemistry](https://player.vimeo.com/video/668589178?h=3e1c8cea47)
+### [Maths](https://player.vimeo.com/video/668590355?h=a926163eab)
+### [English](https://player.vimeo.com/video/668591052?h=44cad648dc)
+### [Hindi](https://player.vimeo.com/video/668591400?h=3ac3a6ca85)
+### [Physical Education](https://player.vimeo.com/video/668591875?h=0e05791c92)
+### [Computer Science](https://player.vimeo.com/video/668592657?h=6871707424)
+
+## Link to All Allen CBSE Booklets 
+[Download](https://archive.org/download/term2lectures/Term2.rar)
+
+
 # English
-
-## Introduction To Boards -
-
-###  [Introduction Boards](https://player.vimeo.com/video/589832050?h=9e243416a1)
-
-## Flamingo
- ####  [ Chapter 01 - The Last Lesson](https://player.vimeo.com/video/589819601?h=818db90a19)
-
- ####  [Chapter 02 - Lost Spring](https://player.vimeo.com/video/589816380?h=42b66c4956)
-
- ####  [Chapter 03 - Deep Water](https://player.vimeo.com/video/589830006?h=1f147d2381)
-
- ####  [Chapter 04 - My Mother At Sixty Six](https://player.vimeo.com/video/589816994?h=67df190583)
-
- ####  [Chapter 05 - An Elementary School Classroom in a Slum](https://player.vimeo.com/video/589826675?h=f198854d49)
-
- ####  [Chapter 06 - Keeping Quiet](https://player.vimeo.com/video/589815927?h=283961c7eb)
-
 ## Vistas
+####   [Lecture 1](https://player.vimeo.com/video/670649123?h=5a79614d2a)
+####   [Lecture 2](https://player.vimeo.com/video/670644204?h=4758a49b40)
+####   [Lecture 3](https://player.vimeo.com/video/670645949?h=79ec209339)
+####   [Lecture 4](https://player.vimeo.com/video/670647422?h=142e09ef0a)
 
- ####  [ Chapter 01 - The Third Level](https://player.vimeo.com/video/589822549?h=51ec0d6d19)
+## Flamingo(poetry)
+####   [Lecture 1](https://player.vimeo.com/video/670642926?h=3daff8b20f)
+####   [Lecture 2](https://player.vimeo.com/video/670641896?h=56eb601b88)
 
- ####  [Chapter 02 - The Enemy Part-1](https://player.vimeo.com/video/589817212?h=782f145180)
-
- ####  [Chapter 02 - The Enemy Part-2](https://player.vimeo.com/video/589817668?h=22714df3e0)
+## Flamingo(prose)
+####   [Lecture 1](https://player.vimeo.com/video/670639472?h=49d8aa7daf)
+####   [Lecture 2](https://player.vimeo.com/video/670636635?h=cf07e5dc61)
 
 ## Writing Section
-
- ####  [Writing Section Full Part](https://player.vimeo.com/video/589824405?h=ba065e7a5c)
-
+####   [Lecture 1](https://player.vimeo.com/video/670650245?h=ed9d20ee4b)
 
 
 # Physics
-
-### 1. Electric Charge & Fields-Boards | Lectures
-
-   ####  [Introduction to Syllabus & Part 1]( https://player.vimeo.com/video/584798596?h=39c89b5bab)
-
-   ####   [Part 2](https://player.vimeo.com/video/584800762?h=0a5ffcbc9a)
-
-   ####    [Part 3](https://player.vimeo.com/video/584787640?h=baf2060c82)
-
-   ####    [Part 4](https://player.vimeo.com/video/584794191?h=7c20c278b0)
-
-   ####   [Part 5](https://player.vimeo.com/video/584796293?h=a40c61c1af )
-
-
-### 2. Electric Potential & Capacitance-Boards | Lectures
-
-####  [Part 1](https://player.vimeo.com/video/589235320?h=8a24ea1684)
-
-####  [Part 2](https://player.vimeo.com/video/589237281?h=c95974aa10)
-
-####  [Part 3](https://player.vimeo.com/video/589228672?h=f7cba56af9)
-
-####  [Part 4](https://player.vimeo.com/video/589230630?h=2b6c45c018)
-
-####  [Part 5](https://player.vimeo.com/video/589232568?h=3fc2f3fd9f)
-
-### 3. Current Electricity-Boards | Lectures
-
-####  [Part 1](https://player.vimeo.com/video/589778961?h=555641cca5)
-
-####  [Part 2](https://player.vimeo.com/video/589780001?h=c7200b4236)
-
-####  [Part 3](https://player.vimeo.com/video/589781080?h=2e400ab37e)
-
-####  [Part 4](https://player.vimeo.com/video/589776876?h=3f39ecd4b4)
-
-####  [Part 5](https://player.vimeo.com/video/589777863?h=46ee155ea5)
-
-### 4. Moving Charge And Magnetism-Boards  | Lectures
-
-####  [Part 1](https://player.vimeo.com/video/589784713?h=84c6c51df4)
-
-####  [Part 2](https://player.vimeo.com/video/589785747?h=68ec3692ef)
-
-####  [Part 3](https://player.vimeo.com/video/589782026?h=f09714af08)
-
-####  [Part 4](https://player.vimeo.com/video/589783020?h=ccd4a2b070)
-
-####  [Part 5](https://player.vimeo.com/video/589783862?h=a3a94cd948)
-
-### 5. Alternating Current-Boards | Lectures
-####  [Part 1](https://player.vimeo.com/video/589800792?h=a6f859d400)
-
-####  [Part 2](https://player.vimeo.com/video/589793863?h=ce44f07323)
-
-####  [Part 3](https://player.vimeo.com/video/589794822?h=48bcb4d80a)
-
-####  [Part 4](https://player.vimeo.com/video/589797357?h=35dd12cedc)
-
-####  [Part 5](https://player.vimeo.com/video/589798244?h=00c5fb6f72)
-
-###  6. Electromagnetic Induction-Boards | Lectures
-####  [Part 1](https://player.vimeo.com/video/589792983?h=9942b9a275)
-
-####  [Part 2](https://player.vimeo.com/video/589790014?h=bfcd62b12f)
-
-####  [Part 3](https://player.vimeo.com/video/589790850?h=cfa6e7d7b1)
-
-####  [Part 4](https://player.vimeo.com/video/589791646?h=9b30acf9cc)
-
-### 7. Magnetism & Matter-Boards | Lectures
-####  [Part 1](https://player.vimeo.com/video/589789084?h=af073c450a)
-
-####  [Part 2](https://player.vimeo.com/video/589786740?h=1b7ef03bf1)
-
-####  [Part 3](https://player.vimeo.com/video/589787799?h=a8082754df)
-
-
-
-
-# Maths
-
-
-### 1. Continuity & differentiability-Boards | Lectures
-
-####  [Part 1](https://player.vimeo.com/video/584777632?h=6d40ca36de)
-
-####  [Part 2](https://player.vimeo.com/video/584777632?h=6d40ca36de)
-
-####  [Part 3](https://player.vimeo.com/video/584769986?h=236dd0f61b)
-
-####  [Part 4](https://player.vimeo.com/video/584772431?h=b70cae83a9)
-
-####  [Part 5](https://player.vimeo.com/video/584774426?h=02add0a965)
-
-####  [Part 6](https://player.vimeo.com/video/584776038?h=68d255bd3f)
-
-###  2. Inverse Trigonometric Function Function Boards | Lectures
-####  [Part 1](https://player.vimeo.com/video/584175598?h=3c40d6daa4)
-
-###  3. Application of Derivatives-Boards | Lectures
-
-####  [Part 1](https://player.vimeo.com/video/589224593?h=7addr1vyh3ysu2rl4q2llq80sptvk3hftr8xen8dc73kdc3ezlqngpqtaye)
-
-####  [Part 2](https://player.vimeo.com/video/589205550?h=2b6b7a5333)
-
-### 4. Matrices Boards | Lectures
-
-####  [Part 1](https://player.vimeo.com/video/589807981?h=5fb4175346)
-
-####  [Part 2](https://player.vimeo.com/video/589805684?h=8c60f353a2)
-
-####  [Part 3](https://player.vimeo.com/video/589806627?h=1af5285032)
-
-####  [Part 4](https://player.vimeo.com/video/589807207?h=3fa7e7ac7c)
-
-### 5. Determinants Boards | Lectures
-
-####  [Part 1](https://player.vimeo.com/video/589809947?h=b95867c482)
-
-####  [Part 2](https://player.vimeo.com/video/589808471?h=49e75734a9)
-
-####  [Part 3](https://player.vimeo.com/video/589809157?h=c66620e4b9)
-
-####  [Part 4](https://player.vimeo.com/video/589809510?h=adee1053d8)
-### 6. LPP-Boards | Lectures
-
-####  [Part 1](https://player.vimeo.com/video/589810517?h=a3937b5e2f)
+### 1. Ray Optics | Lectures
+   ####   [Lecture 1](https://player.vimeo.com/video/662170214?h=0863d6a796)
+   ####   [Lecture 2](https://player.vimeo.com/video/662170395?h=3c3cac9886)
+   ####   [Lecture 3](https://player.vimeo.com/video/662169257?h=8d73434543)
+   ####   [Lecture 4](https://player.vimeo.com/video/662169387?h=c9d5c98f9b)
+   ####   [Lecture 5](https://player.vimeo.com/video/662169526?h=79e6c6a962)
+   ####   [Lecture 6](https://player.vimeo.com/video/662169692?h=cd1291a6aa)
+   ####   [Lecture 7](https://player.vimeo.com/video/662169802?h=2c4ae31e2f)
+   ####   [Lecture 8](https://player.vimeo.com/video/662169986?h=aade3a5983)
+
+### 2. Electromagnetic waves | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/662171536?h=de41371739)
+####   [Lecture 2](https://player.vimeo.com/video/662170606?h=382fe5a7ad)
+
+### 3. Wave Optics | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/665155025?h=64ed5ef38f)
+####   [Lecture 2](https://player.vimeo.com/video/665155210?h=0d38152052)
+####   [Lecture 3](https://player.vimeo.com/video/665154578?h=233cf13968)
+####   [Lecture 4](https://player.vimeo.com/video/665154751?h=f7a01a614a)
+####   [Lecture 5](https://player.vimeo.com/video/665154863?h=bcfc579d76)
+
+### 4. Dual Nature of Radiation and Matter | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/668546691?h=545d6d0d4b)
+####   [Lecture 2](https://player.vimeo.com/video/668546505?h=a8565c4402)
+
+### 5. Atoms | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/668547473?h=2221843d4a)
+####   [Lecture 2](https://player.vimeo.com/video/668546895?h=78236329f1)
+
+### 6. Nuclei | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/674131394?h=40cb5b1f2c)
+####   [Lecture 2](https://player.vimeo.com/video/674130168?h=3aaa6747a3)
+
+### 7. Semiconductor | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/673220264?h=e638f6eab8)
+####   [Lecture 2](https://player.vimeo.com/video/673222902?h=43fd2d7d3e)
+####   [Lecture 3](https://player.vimeo.com/video/673225251?h=5ffa4df03d)
+####   [Lecture 4](https://player.vimeo.com/video/673227907?h=610a7d9b12)
 
 # Chemistry
 
-## Physical Chemistry -
+## Physical Chemistry 
 
-### 1. Solution-Boards | Lectures
+### 1. Chemical Kinetics | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/658109454?h=b53403e42b)
+####   [Lecture 2](https://player.vimeo.com/video/658111449?h=b18fd315d2)
+####   [Lecture 3](https://player.vimeo.com/video/658112968?h=435742b707)
 
-####  [Part 1](https://player.vimeo.com/video/584783658?h=02bf6048d1)
+### 2. Electrochemistry | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/658105004?h=69dddb0b0e)
+####   [Lecture 2](https://player.vimeo.com/video/658106989?h=886fc3e702)
+####   [Lecture 3](https://player.vimeo.com/video/658108455?h=2b709841bf)
 
-####  [Part 2](https://player.vimeo.com/video/584785767?h=1e56de8433)
+### 3. Surfacechemistry | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/660350795?h=61188d4704)
+####   [Lecture 2](https://player.vimeo.com/video/660352318?h=cf0b00484a)
+####   [Lecture 3](https://player.vimeo.com/video/660352904?h=5a8b3f2e43)
 
-### 2. Solid State-Boards | Lectures
+## Inorganic Chemistry
 
-####  [Part 1](https://player.vimeo.com/video/584780731?h=5185cbd2a5)
+### 1. D & F Block | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/660353370?h=c1f7da33d5)
+####   [Lecture 2](https://player.vimeo.com/video/660353675?h=b38c000b4d)
+####   [Lecture 3](https://player.vimeo.com/video/660353936?h=8595699b34)
 
-####  [Part 2](https://player.vimeo.com/video/584781196?h=edaa7895aa)
+### 2. Coordination Compounds | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/668548837?h=086e5b1784)
+####   [Lecture 2](https://player.vimeo.com/video/668548005?h=323d9bb7ed)
+####   [Lecture 3](https://player.vimeo.com/video/668548314?h=d5535a89c6)
 
-####  [Part 3](https://player.vimeo.com/video/584782587?h=fc53f688ae)
+## Organic Chemistry | Lectures
+##### (they just provided whole organic like this)
+####   [Lecture 1](https://player.vimeo.com/video/674148079?h=1c8d935144)
+####   [Lecture 2](https://player.vimeo.com/video/674149320?h=896bcd786b)
+####   [Lecture 3](https://player.vimeo.com/video/674150032?h=ceb4066407)
+####   [Lecture 4](https://player.vimeo.com/video/674151387?h=ad090e6be8)
+####   [Lecture 5](https://player.vimeo.com/video/674152994?h=0b0d659be4)
+####   [Lecture 6](https://player.vimeo.com/video/674135044?h=53ac2e7cb7)
+####   [Lecture 7](https://player.vimeo.com/video/674136409?h=53bc6ae8dc)
+####   [Lecture 8](https://player.vimeo.com/video/674137728?h=e6d721e85e)
+####   [Lecture 9](https://player.vimeo.com/video/674138674?h=4d2e57c5cf)
+####   [Lecture 10](https://player.vimeo.com/video/674139918?h=016189dc8a)
+####   [Lecture 11](https://player.vimeo.com/video/674141275?h=5b9a3d52c5)
+####   [Lecture 12](https://player.vimeo.com/video/674143058?h=6d72e24d3d)
+####   [Lecture 13](https://player.vimeo.com/video/674144266?h=1bf6f1a6b1)
+####   [Lecture 14](https://player.vimeo.com/video/674145685?h=4f7662f2d7)
+####   [Lecture 15](https://player.vimeo.com/video/674146848?h=de568fa1af)
 
-## Inorganic Chemistry -
+# Maths
 
-### 1. P-Block Elements-Boards | Lectures
+### 1. Integrals | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/662167881?h=945fad7cfe)
+####   [Lecture 2](https://player.vimeo.com/video/662168323?h=1afd438d4a)
+####   [Lecture 3](https://player.vimeo.com/video/662168850?h=0aa75dbc5b)
+####   [Lecture 4](https://player.vimeo.com/video/662165008?h=f3d746bd10)
+####   [Lecture 5](https://player.vimeo.com/video/662165500?h=8e9c41b40d)
+####   [Lecture 6](https://player.vimeo.com/video/662166113?h=4985139170)
+####   [Lecture 7](https://player.vimeo.com/video/662166622?h=83570147c3)
+####   [Lecture 8](https://player.vimeo.com/video/662167206?h=6b09682ed6)
+####   [Lecture 9](https://player.vimeo.com/video/662167566?h=35adb335c1)
 
-####  [Part 1](https://player.vimeo.com/video/589226531?h=49539bc649)
+### 2. Application of Integrals | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/665127449?h=ec37990014)
+####   [Lecture 2](https://player.vimeo.com/video/665128798?h=1243c436fd)
 
-####  [Part 2](https://player.vimeo.com/video/589227588?h=501316b887)
+### 3. Differential Equation | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/668545479?h=619309b124)
+####   [Lecture 2](https://player.vimeo.com/video/668545988?h=fd040205b6)
+####   [Lecture 3](https://player.vimeo.com/video/668544893?h=93de9a088d)
+####   [Lecture 4](https://player.vimeo.com/video/668545350?h=446edcdd32)
+
+### 4. Probability | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/673239854?h=afe84704be)
+####   [Lecture 2](https://player.vimeo.com/video/673234701?h=03eb22a85f)
+####   [Lecture 3](https://player.vimeo.com/video/673236433?h=f053de928a)
+####   [Lecture 4](https://player.vimeo.com/video/673237053?h=2b73c68c5c)
+####   [Lecture 5](https://player.vimeo.com/video/673239360?h=126929e76d)
+
+### 5. 3-D | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/673520396?h=d714b84387)
+####   [Lecture 2](https://player.vimeo.com/video/673233322?h=aa6d0067ef)
+####   [Lecture 3](https://player.vimeo.com/video/673230192?h=66e85f4a59)
+####   [Lecture 4](https://player.vimeo.com/video/673231215?h=1690869e2c)
+
+### 6. Vector | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/674132492?h=5208a5cf6a)
+####   [Lecture 2](https://player.vimeo.com/video/674133209?h=35f5f2c246)
+####   [Lecture 3](https://player.vimeo.com/video/674134082?h=73fac747b2)
+
+## Physical Education | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/670617747?h=5ff5c762ec)
+####   [Lecture 2](https://player.vimeo.com/video/670619082?h=9962fa9b3a)
+####   [Lecture 3](https://player.vimeo.com/video/670613433?h=0cb9ce78a0)
+####   [Lecture 4](https://player.vimeo.com/video/670614492?h=cad4db3455)
+####   [Lecture 5](https://player.vimeo.com/video/670616542?h=118c1ce019)
 
 
-## Organic Chemistry
+## Computer Science | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/670610260?h=e1dc1c6012)
+####   [Lecture 2](https://player.vimeo.com/video/670610872?h=0f5a52674a)
+####   [Lecture 3](https://player.vimeo.com/video/670611833?h=a1563dbe7a)
+####   [Lecture 4](https://player.vimeo.com/video/670612460?h=f3e1f21bbf)
+####   [Lecture 5](https://player.vimeo.com/video/670606459?h=bee3316756)
+####   [Lecture 6](https://player.vimeo.com/video/670607475?h=3faf996b09)
+####   [Lecture 7](https://player.vimeo.com/video/670608301?h=521185130b)
+####   [Lecture 8](https://player.vimeo.com/video/670609184?h=1316c781cb)
 
-### 1. Alcohols, Phenols and Ethers-Boards | Lectures
 
-####  [Part 1](https://player.vimeo.com/video/589803549?h=713f30839b)
 
-### 2. Biomolecules-Boards | Lectures
 
-####  [Part 1](https://player.vimeo.com/video/589804980?h=671cd31ead)
-
-### 3. Haloalkanes and Haloarenes-Boards | Lectures
-
-####  [Part 1](https://player.vimeo.com/video/589801789?h=329e9f5324)
-
-# Practicals Videos
-
-## Maths
-####  1. [Introduction Activity- Practical 1,2,3 & 16 | Lecture 01-(CBSE)](https://player.vimeo.com/video/599407053?h=1f47aac8c1)
-
-####  2. [ Practical 4,6,7 & 8 | Lecture 02-(CBSE)](https://player.vimeo.com/video/599395033?h=e2190e686b)
-
-####  3. [ Practical 10,11,12 & 13 | Lecture 03-(CBSE)](https://player.vimeo.com/video/599398611?h=f11deacc0d)
-  
-####  4. [ Practical 14,15,17 & 20 | Lecture 04-(CBSE)](https://player.vimeo.com/video/599402731?h=548c9a8188)
-
-## Physics
-
-####  1. [ Ohm Law Practical](https://player.vimeo.com/video/599394303?h=eb90ebf3708)
-
-####  2. [ Meter Bridge Experiment 01-Practical | Lecture 01-(CBSE)](https://player.vimeo.com/video/599394907?h=e0ce57e803)
-
-####  3. [ Meter Bridge Experiment 02-Practical | Lecture 02-(CBSE)](https://player.vimeo.com/video/599393172?h=308afca2c3)
-
-####  4. [Potentiometer Experiment 01-Practical | Lecture 01-(CBSE)](https://player.vimeo.com/video/599393479?h=1915a514c5)
-
-####  5. [Potentiometer Experiment 02-Practical | Lecture 02-(CBSE)](https://player.vimeo.com/video/599393798?h=a45cf534f9)
-
-####  6. [Half Deflection Method - Final-Practical | Lecture Final-(CBSE)](https://player.vimeo.com/video/599393937?h=249707057e)
-
-## Chemistry
-
-### Inorganic Chemistry
-
-####  1 [TITRATION -Practical | Lecture 01-(CBSE)Inorganic Chemistry](https://player.vimeo.com/video/599412565?h=99704118b8)
-
-####  2 [ACIDRADICAL -Practical | Lecture 01-(CBSE)Inorganic Chemistry](https://player.vimeo.com/video/599411056?h=5de88f0abc)
-
-####  3 [Acidradical Strong -Practical | Lecture 01-(CBSE)Inorganic Chemistry](https://player.vimeo.com/video/599413012?h=0816b0beef)
-
-####  4 [Basicradical -Practical | Lecture 01-(CBSE)Inorganic Chemistry](https://player.vimeo.com/video/599411468?h=9cd65156d7)
-
-####  5 [Basicradical -Practical | Lecture 02-(CBSE)Inorganic Chemistry](https://player.vimeo.com/video/599411468?h=9cd65156d7)
-
-# Physical Education
-
-### Planning in Sports | Lectures
-
-##### [Part 1](https://player.vimeo.com/video/589812349?h=d9b8e4262f)
-
-##### [Part 2](https://player.vimeo.com/video/589813134?h=fc2460913a)
-
-#### [Planning in Sports Part 3 + Sports And Nutrition](https://player.vimeo.com/video/589811155?h=0939caeba1)
-
-### Children & Women in Sports | Lectures
-
-##### [Part 1](https://player.vimeo.com/video/589811583?h=cb96b761f6)
-
-### Test & Measurement in Sports | Lectures
-
-##### [Part 1](https://player.vimeo.com/video/589811841?h=c5d419c956)
-
-### Biomechanics & Sports Practical | Lectures
-
-##### [Part 1](https://player.vimeo.com/video/589812082?h=7222dba28b)
-
-# Computer Science
-
-### Revision of basics of python-Boards | Lectures
-
-##### [Part 1](https://player.vimeo.com/video/589814948?h=143020f42f)
-
-##### [Part 2](https://player.vimeo.com/video/589815405?h=4d35a7af0f)
-
-### Function-Boards | Lectures
-
-##### [Part 1](https://player.vimeo.com/video/589813577?h=d531040ab1)
-
-##### [Part 2](https://player.vimeo.com/video/589813852?h=fa35e213d0)
-
-### File Handling | Lectures
-
-##### [Part 1](https://player.vimeo.com/video/589814145?h=483d435508)
-
-##### [Part 2](https://player.vimeo.com/video/589814440?h=a1f856e334)
+## Practical
+### Physics
+[Refractive Index of water](https://player.vimeo.com/video/671065109?h=9d7727d0b5)
